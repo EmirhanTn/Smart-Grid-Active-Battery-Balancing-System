@@ -54,7 +54,7 @@ The system uses a **Voltage-Based Active Balancing** method.
 ---
 
 ### 👨‍💻 Developer
-**[Senin Adın Soyadın]**
-*Electrical & Electronics Engineering Student*
+**[Emirhan Torun]**
+*Software Engineering Student*
 
 *Developed as part of the "Smart Grids & Microgrid Analysis" project.*
